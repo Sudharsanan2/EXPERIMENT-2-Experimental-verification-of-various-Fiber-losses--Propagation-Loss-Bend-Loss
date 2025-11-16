@@ -27,13 +27,15 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 ### Propagation Loss
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
+| Fiber Length | Input Amplitude (V) | Output Amplitude (V)   |
 |--------------|---------------------|------------------------|
-|              |                     |                        |
+|    7cm       |        18.2v        |          14v           |
+|    5cm       |        18.2v        |          14.4v         |
+
 
 ### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
+| Bending Diameter | Input Amplitude (V) | Output Amplitude (V)   |
 |------------------|---------------------|------------------------|
 |                  |                     |                        |
 
